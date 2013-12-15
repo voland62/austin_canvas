@@ -1,0 +1,7 @@
+austin-canvas.sublime-project
+austin-canvas.sublime-workspace
+out/ 
+target/
+.nrepl-port
+.lein-repl-history
+.repl/
